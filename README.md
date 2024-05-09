@@ -4,4 +4,6 @@ Provided here is the underlying photometry for the paper "Tip of the Red Giant B
 
 Please cite the paper if you use any of the photometry in this repository:
 
+https://ui.adsabs.harvard.edu/abs/2024ApJ...966...89A/abstract
+
 https://iopscience.iop.org/article/10.3847/1538-4357/ad2e0a
